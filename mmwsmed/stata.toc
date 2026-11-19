@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p mmwsmed Causal mediation analysis using ratio-of-mediator-probability weighting with parametric or nonparametric weights Use mmwsmed With STATA 19

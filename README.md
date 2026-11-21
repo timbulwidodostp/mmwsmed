@@ -1,6 +1,8 @@
 # mmwsmed
 Causal mediation analysis using ratio-of-mediator-probability weighting (RMPW) with parametric or nonparametric weights Use mmwsmed With STATA 19
 
+https://www.youtube.com/watch?v=cyg4FYtgivo
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
